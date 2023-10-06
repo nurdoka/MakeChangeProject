@@ -54,6 +54,6 @@ public class Register {
 				temp %= 1;
 			}
 		}
-		
+		kb.close();
 	}
 }
